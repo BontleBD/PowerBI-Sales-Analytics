@@ -100,14 +100,15 @@ These insights highlight opportunities to improve conversion efficiency, diversi
 ---
 
 ##Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
-
+-Screenshort/Top_Perfoming_Products.png
+-Screenshort/Customer_ Distribution_ Across_Organizations.png
+-Screenshort/Purchase_Conversion_Trends.png
+-Screenshort/Sales_Trends.png
 
 ---
 
 ## Data Model
-![Model](screenshots/model-view.png)
-
+-Screenshort/Logical_Relationships.png
 ---
 
 ## Tools & Technologies
